@@ -38,7 +38,7 @@ For more information on license types, please reference to this website for addi
  * Email me with any questions: [satwinder47@outlook.com](mailto:satwinder47@outlook.com)
 
   ## Website design image
-  ![This is website image](./client/public/images/retail.png)
+  ![This is website image](./client/images/retail.png)
 
   ## Live app link
   [Live app url]( https://satwinder191995.github.io/react-portfolio/)
