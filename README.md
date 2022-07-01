@@ -41,4 +41,4 @@ For more information on license types, please reference to this website for addi
   ![This is website image](./client/images/retail.png)
 
   ## Live app link
-  [Live app url]( https://satwinder191995.github.io/react-portfolio/)
+  [Live app url](https://satwinder-ecommerce.herokuapp.com/)
